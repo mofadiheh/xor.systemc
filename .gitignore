@@ -18,5 +18,5 @@
 main
 Output.bmp
 
-systemc.xor.pro.user
+xor.systemc.pro.user
 build-xor*
