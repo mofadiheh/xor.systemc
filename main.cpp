@@ -1,6 +1,7 @@
 #include "systemc.h"
 #include "stim.h"
 #include "exor2.h"
+#include "nand2.h"
 #include "mon.h"
 
 int sc_main(int argc, char* argv[])

@@ -8,7 +8,7 @@ SC_MODULE(nand2)          // declare nand2 sc_module
 
   void do_nand2()         // a C++ function
   {
-
+	F.write( A.read() == false || B.read() == false );
 	// TODO: put your implementation here
 
   }
